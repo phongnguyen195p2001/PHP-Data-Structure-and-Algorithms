@@ -19,5 +19,4 @@ function extraLongFactorials($n) {
 }
 
 $n = intval(trim(fgets(STDIN)));
-
 extraLongFactorials($n);

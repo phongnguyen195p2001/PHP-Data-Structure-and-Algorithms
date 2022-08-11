@@ -37,11 +37,3 @@ switch ($argv[1]) {
 }
 $time_elapsed_secs = microtime(true) - $start;
 echo 'Run time: ' . $time_elapsed_secs . 's';
-//
-//$helper = new helper();
-//$sort = new bubbleSort();
-//$array = $helper->random_array();
-//$start = microtime(true);
-//echo implode(', ', $sort->bubbleSort($array)) . "\n";
-//$time_elapsed_secs = microtime(true) - $start;
-//echo 'Time: '.$time_elapsed_secs;
