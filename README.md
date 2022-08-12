@@ -12,4 +12,4 @@ Cách sử dụng kết quả:
   - Queue
   - Stack
  ### HackeRank
-![Screenshot](image/HackerRankPoin.png)
+![Screenshot](image/HackerRankPoints.png)
