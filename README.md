@@ -4,3 +4,11 @@
 Cách sử dụng kết quả:
 
  - Download code và run code tại đường dẫn https://github.com/phongnguyen195p2001/PHP-Data-Structure-and-Algorithms
+## Cấu trúc thư mục:
+ ### Algorithms:
+  - Sorting
+  - Searching
+ ### DS
+  - Queue
+  - Stack
+ ### HackeRank
