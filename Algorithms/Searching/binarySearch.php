@@ -22,7 +22,7 @@ function binary_Search(Array $arr, $x)
 }
 
 $arr = array(1, 2, 3, 9, 5, 6, 7, 8);
-$value = 10;
+$value = 9;
 if(binary_Search($arr, $value) == true) {
     echo $value ." Exists";
 }
