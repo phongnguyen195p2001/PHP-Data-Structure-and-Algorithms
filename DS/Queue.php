@@ -1,5 +1,6 @@
 <?php
 
+// Hàng đợi
 class Queue {
     private $queue = [];
 

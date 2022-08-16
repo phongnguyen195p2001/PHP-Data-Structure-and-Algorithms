@@ -1,5 +1,6 @@
 <?php
 
+// Ngăn xếp
 class Stack{
     private $stack = [];
 

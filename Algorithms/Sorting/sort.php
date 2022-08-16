@@ -1,8 +1,8 @@
 <?php
+require("helper.php");
 
 class Sort
 {
-
     // Bubble Sort
 
     public function bubbleSort(array $array)
